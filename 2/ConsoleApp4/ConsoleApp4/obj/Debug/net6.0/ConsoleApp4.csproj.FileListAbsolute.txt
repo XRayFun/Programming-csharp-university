@@ -1,0 +1,14 @@
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ref\ConsoleApp4.dll
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+H:\МЭИ\Группа\Работы и материалы\Прога\2\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache

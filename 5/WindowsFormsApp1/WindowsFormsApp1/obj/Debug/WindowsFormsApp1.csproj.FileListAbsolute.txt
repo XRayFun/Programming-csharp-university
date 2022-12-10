@@ -1,0 +1,11 @@
+H:\МЭИ\Группа\Работы и материалы\Прога\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\МЭИ\Группа\Работы и материалы\Прога\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\МЭИ\Группа\Работы и материалы\Прога\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\МЭИ\Группа\Работы и материалы\Прога\4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\МЭИ\Группа\Работы и материалы\Прога\4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\МЭИ\Группа\Работы и материалы\Прога\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\МЭИ\Группа\Работы и материалы\Прога\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,17 @@
+const int SVETODIOD = 7
+void setup()
+{
+  pinMode(SVETODIOD, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(SVETODIOD, HIGH);
+  delay(10);
+  digitalWrite(SVETODIOD, LOW);
+  //pinMode(SVETODIOD, INPUT);
+  int zv = pulseIn(SVETODIOD, HIGH);
+  zv/=45;
+  Serial.print(zv);
+  delay(300);
+}

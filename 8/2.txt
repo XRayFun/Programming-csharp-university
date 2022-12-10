@@ -1,0 +1,18 @@
+int yarkost = 1; //Начальное значение яркости
+int yarkostizm = 3;   //Изменение яркости 
+const int SVETODIOD = 7; //Светодиод подключен
+ 
+void setup()  {
+  pinMode(SVETODIOD, OUTPUT);
+  pinMode(SVETODIOD, OUTPUT);
+}
+ 
+void loop()  {
+  analogWrite(SVETODIOD, yarkost);    
+ 
+  yarkost = yarkost + yarkostizm;
+  if (yarkost <= 0 || yarkost >= 255)  //Если достиг верхней или нижней границы, то меняем знак приращения (яркость либо убывает, либо возрастает)
+	yarkostizm = - yarkostizm;
+  
+  delay(10);                            
+}

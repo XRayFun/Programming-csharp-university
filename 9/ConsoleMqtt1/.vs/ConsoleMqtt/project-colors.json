@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4fb5806-c039-4bc9-b860-915b061d389d": {
+      "ProjectGuid": "c4fb5806-c039-4bc9-b860-915b061d389d",
+      "DisplayName": "ConsoleMqtt",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

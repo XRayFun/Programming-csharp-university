@@ -1,0 +1,11 @@
+H:\МЭИ\Группа\Работы и материалы\Прога\5\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+H:\МЭИ\Группа\Работы и материалы\Прога\5\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+H:\МЭИ\Группа\Работы и материалы\Прога\5\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+H:\МЭИ\Группа\Работы и материалы\Прога\5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+H:\МЭИ\Группа\Работы и материалы\Прога\5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+H:\МЭИ\Группа\Работы и материалы\Прога\5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+H:\МЭИ\Группа\Работы и материалы\Прога\5\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Personal.resources

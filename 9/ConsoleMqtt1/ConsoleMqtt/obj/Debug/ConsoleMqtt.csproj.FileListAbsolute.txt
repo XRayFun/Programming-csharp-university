@@ -1,0 +1,32 @@
+E:\Лекции\Системное программирование\ConsoleMqtt\ConsoleMqtt\bin\Debug\ConsoleMqtt.exe.config
+E:\Лекции\Системное программирование\ConsoleMqtt\ConsoleMqtt\bin\Debug\ConsoleMqtt.exe
+E:\Лекции\Системное программирование\ConsoleMqtt\ConsoleMqtt\bin\Debug\ConsoleMqtt.pdb
+E:\Лекции\Системное программирование\ConsoleMqtt\ConsoleMqtt\bin\Debug\M2Mqtt.Net.dll
+E:\Лекции\Системное программирование\ConsoleMqtt\ConsoleMqtt\bin\Debug\M2Mqtt.Net.pdb
+E:\Лекции\Системное программирование\ConsoleMqtt\ConsoleMqtt\obj\Debug\ConsoleMqtt.csprojAssemblyReference.cache
+E:\Лекции\Системное программирование\ConsoleMqtt\ConsoleMqtt\obj\Debug\ConsoleMqtt.csproj.CoreCompileInputs.cache
+E:\Лекции\Системное программирование\ConsoleMqtt\ConsoleMqtt\obj\Debug\ConsoleMqtt.csproj.CopyComplete
+E:\Лекции\Системное программирование\ConsoleMqtt\ConsoleMqtt\obj\Debug\ConsoleMqtt.exe
+E:\Лекции\Системное программирование\ConsoleMqtt\ConsoleMqtt\obj\Debug\ConsoleMqtt.pdb
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt\ConsoleMqtt\bin\Debug\ConsoleMqtt.exe.config
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt\ConsoleMqtt\bin\Debug\ConsoleMqtt.exe
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt\ConsoleMqtt\bin\Debug\ConsoleMqtt.pdb
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt\ConsoleMqtt\bin\Debug\M2Mqtt.Net.dll
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt\ConsoleMqtt\bin\Debug\M2Mqtt.Net.pdb
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt\ConsoleMqtt\obj\Debug\ConsoleMqtt.csproj.AssemblyReference.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt\ConsoleMqtt\obj\Debug\ConsoleMqtt.csproj.SuggestedBindingRedirects.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt\ConsoleMqtt\obj\Debug\ConsoleMqtt.csproj.CoreCompileInputs.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt\ConsoleMqtt\obj\Debug\ConsoleMqtt.csproj.CopyComplete
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt\ConsoleMqtt\obj\Debug\ConsoleMqtt.exe
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt\ConsoleMqtt\obj\Debug\ConsoleMqtt.pdb
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt1\ConsoleMqtt\bin\Debug\ConsoleMqtt.exe.config
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt1\ConsoleMqtt\bin\Debug\ConsoleMqtt.exe
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt1\ConsoleMqtt\bin\Debug\ConsoleMqtt.pdb
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt1\ConsoleMqtt\bin\Debug\M2Mqtt.Net.dll
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt1\ConsoleMqtt\bin\Debug\M2Mqtt.Net.pdb
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt1\ConsoleMqtt\obj\Debug\ConsoleMqtt.csproj.AssemblyReference.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt1\ConsoleMqtt\obj\Debug\ConsoleMqtt.csproj.SuggestedBindingRedirects.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt1\ConsoleMqtt\obj\Debug\ConsoleMqtt.csproj.CoreCompileInputs.cache
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt1\ConsoleMqtt\obj\Debug\ConsoleMqtt.csproj.CopyComplete
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt1\ConsoleMqtt\obj\Debug\ConsoleMqtt.exe
+H:\МЭИ\Группа\Работы и материалы\Прога\9\ConsoleMqtt1\ConsoleMqtt\obj\Debug\ConsoleMqtt.pdb

@@ -1,0 +1,17 @@
+int yarkost = 1;
+int yarkostizm = 3;
+const int SVETODIOD = 7;
+ 
+void setup()  {
+  pinMode(SVETODIOD, OUTPUT);
+}
+ 
+void loop()  {
+  analogWrite(SVETODIOD, yarkost);    
+ 
+  yarkost = yarkost + yarkostizm;
+  if (yarkost <= 0 || yarkost >= 255)
+	yarkostizm = - yarkostizm;
+  
+  delay(10);                            
+}

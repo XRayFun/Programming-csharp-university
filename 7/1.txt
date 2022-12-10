@@ -1,0 +1,26 @@
+const int RED = 5;              
+const int YELLOW = 6;           
+const int GREEN = 7;     
+
+void loop()
+{
+  int prev = 5;
+  while(true) {
+    if (prev == 5) {
+      	prev = 6;
+	digitalWrite(5, LOW);
+      	digitalWrite(6, HIGH);
+      	delay (50);
+    } else if (prev == 6) {
+      	prev = 7;
+	digitalWrite(6, LOW);
+      	digitalWrite(7, HIGH);
+      	delay (50);
+    } else if (prev == 7) {
+      	prev = 5;
+	digitalWrite(7, LOW);
+      	digitalWrite(2, HIGH);
+      	delay (50);
+    }
+  }
+}

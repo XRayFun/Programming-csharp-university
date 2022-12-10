@@ -1,0 +1,11 @@
+const int RED = 5;              
+const int YELLOW = 6;           
+const int GREEN = 7;     
+
+void loop()
+{
+	digitalWrite(GREEN, LOW);
+	digitalWrite(YELLOW, LOW);    
+	digitalWrite(RED, LOW);
+	digitalWrite(random(5, 8), HIGH);
+}
